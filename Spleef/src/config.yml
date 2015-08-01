@@ -1,0 +1,21 @@
+#-------------------------------------------#
+#---------------SPLEEF CONFIG---------------#
+#-------------------------------------------#
+
+#Gulvets højde(y-koordinat) på Spleef
+spleef_height: 41
+
+#Verdenens navn hvor dette plugin skal være gældende
+spleef_world: spleef
+
+#Det der skal stå på skiltets linje
+sign_line: [Start]
+
+#Skovlens navn
+shovel_name: &cMagisk Skovl
+
+#Besked til spiller når den ankommer i arenaen
+entry_message: Du er nu kommet til Spleefarenaen
+
+#Besked til vinderen af Spleef
+winning_message: TILLYKKE! Du har vundet Spleefkampen
