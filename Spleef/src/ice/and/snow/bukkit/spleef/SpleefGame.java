@@ -56,6 +56,7 @@ public class SpleefGame {
 		return isStarted;
 	}
 
+	/**/
 	public void start() {
 		if (playersInArena.size() >= 2 && !isStarted)
 			isStarted = true;
